@@ -1,8 +1,8 @@
 # Maxwell Marcus 
-🗄 Working on: Porting Pyradiomics to Javascript
+🗄 Working on: BCI2000 Hyperscanning
 
-🎓 Learning about: Low level languages (nasm, c)
+🎓 Learning about: Neurotechnologies
 
-✨ Favorite Languages: Python, Javascript
+✨ Favorite Language: c++
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MaxwellMarcus)](https://git.io/awesome-stats-card)
