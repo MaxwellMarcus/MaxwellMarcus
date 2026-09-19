@@ -66,11 +66,5 @@ Before focusing on quantum information, I worked on medical-imaging software
 and cross-platform infrastructure for BCI2000 brain–computer-interface
 experiments.
 
-## What I am looking for
-
-I am interested in **Summer 2027 internships** involving quantum algorithms,
-quantum error correction, fault-tolerant computation, compilers, or
-theory-driven quantum software.
-
 [LinkedIn](https://www.linkedin.com/in/maxwell-marcus-87149732b) ·
 [Email](mailto:mm1568@princeton.edu)
